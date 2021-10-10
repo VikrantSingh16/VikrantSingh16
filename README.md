@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/vikrantsingh004" target="blank"><img src="https://img.shields.io/twitter/follow/vikrantsingh004?logo=twitter&style=for-the-badge" alt="vikrantsingh004" /></a> </p>
 
+<img align="right" alt="coding" width="400" src="https://www.datavisor.com/wp-content/uploads/2020/04/Fraud-1.svg" />
+
 - 💬 Ask me about **Java, C++ , DSA, React and JavaScript**
 
 - 📫 How to reach me **vikrantsingh0016@gmail.com**
