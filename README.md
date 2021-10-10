@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikrant Singh</h1>
-<h3 align="center">I'm not a great programmer; I'm just a good programmer with good logic building skills and yeah I am a Web dev too</h3>
+<h3 align="center">I'm not a great programmer; I'm just a good programmer with good logic building and Web development skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikrantsingh16&label=Profile%20views&color=0e75b6&style=flat" alt="vikrantsingh16" /> </p>
 
